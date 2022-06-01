@@ -1,0 +1,3 @@
+- Fix TP commands
+- Add TP commands to !commmands
+- Release V1.0.5
